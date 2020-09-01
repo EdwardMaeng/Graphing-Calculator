@@ -1,0 +1,7 @@
+#include "polar.h"
+
+Point::Point() {
+
+}
+
+

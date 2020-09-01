@@ -1,0 +1,15 @@
+#ifndef EXPRESSION_H
+#define EXPRESSION_H
+
+#include "token.h"
+
+class Functions {
+public:
+    Expression();
+    string EXP();
+    
+private:
+    string _exp;
+};
+
+#endif // EXPRESSION_H
