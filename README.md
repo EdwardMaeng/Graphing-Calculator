@@ -1,20 +1,20 @@
 # Graphing-Calculator
 ## Features:
         
-      Implemented: 
-                -> Linked List Functions 
-                -> List Class 
-                -> Stack and Queue Class 
-                -> Token Class (Base/Parent Class) 
-                -> Number, Variable, Function, Lparen, Rparen and Operator Class (Derived/Child Class) 
-                -> RPN Class 
-                -> Shunting Yard Class 
-                -> Transform Class (polar, screen coords, and shifts) 
-                -> Evaluate Class
-                -> System Class 
-                -> Animate Class (also has Sidebar for saving and loading files).
+### Implemented: 
+        -> Linked List Functions 
+        -> List Class 
+        -> Stack and Queue Class 
+        -> Token Class (Base/Parent Class) 
+        -> Number, Variable, Function, Lparen, Rparen and Operator Class (Derived/Child Class) 
+        -> RPN Class 
+        -> Shunting Yard Class 
+        -> Transform Class (polar, screen coords, and shifts) 
+        -> Evaluate Class
+        -> System Class 
+        -> Animate Class (also has Sidebar for saving and loading files).
 
-       SFML:
+### SFML:
        - Press Z: to zoom in
        - Press M: to zoom out
        - Press W: to increase points
@@ -31,13 +31,14 @@
        The graph keeps the interval, coordinate of the mouse, and number of points
        updated everytime.
                      
-    Bugs: features that are implemented are bug-free.
+### Bugs: 
+       features that are implemented are bug-free.
     
-    Reflections:
-        The Graphing Calculator project made myself become creative and take challenges to graph
-        different graphs, such as polar. This required me to use projects from the past (lower-level)
-        such as Linked List Functions, List Class, and Stack and Queue Class, in order to slowly build
-        higher-level classes. Plus, use SFML in order to create a visual graph and different buttons.
+### Reflections:
+       The Graphing Calculator project made myself become creative and take challenges to graph
+       different graphs, such as polar. This required me to use projects from the past (lower-level)
+       such as Linked List Functions, List Class, and Stack and Queue Class, in order to slowly build
+       higher-level classes. Plus, use SFML in order to create a visual graph and different buttons.
         
         
-        ********** VIDEO: https://youtu.be/4Qg9MPjg-SU **********
+       ********** VIDEO: https://youtu.be/4Qg9MPjg-SU **********
