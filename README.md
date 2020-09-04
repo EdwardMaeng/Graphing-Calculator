@@ -1,6 +1,7 @@
 # Graphing-Calculator
 Features:
-        Implemented: 
+        
+      Implemented: 
                 -> Linked List Functions 
                 -> List Class 
                 -> Stack and Queue Class 
