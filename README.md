@@ -1,5 +1,5 @@
 # Graphing-Calculator
-Features:
+## Features:
         
       Implemented: 
                 -> Linked List Functions 
