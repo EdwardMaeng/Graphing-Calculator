@@ -14,7 +14,7 @@
         -> System Class 
         -> Animate Class (also has Sidebar for saving and loading files).
 
-### SFML:
+### GUI:
        - Press Z: to zoom in
        - Press M: to zoom out
        - Press W: to increase points
